@@ -1,0 +1,16 @@
+[graphify]
+# Graphify configuration for NONDOPAMINECLOCK
+project_name = "NONDOPAMINECLOCK"
+description = "Free Pomodoro Timer For Android, Mac, Windows, IOS"
+
+[analyze]
+# Enable code analysis
+enabled = true
+
+[visualization]
+# Enable dependency visualization
+enabled = true
+
+[copilot]
+# Enable Copilot integration
+enabled = true
