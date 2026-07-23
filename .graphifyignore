@@ -1,0 +1,11 @@
+# Graphify ignore patterns
+node_modules/
+dist/
+build/
+.git/
+.github/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
